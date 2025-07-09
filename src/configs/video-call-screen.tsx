@@ -133,10 +133,10 @@ export default function VideoCallScreen({
                     <video
                       src={
                         isPlaying
-                          ? "./public/videos/hombre_hablando.mp4"
+                          ? "./videos/hombre_hablando.mp4"
                           : micEnabled
-                          ? "./public/videos/hombre_oyendo.mp4"
-                          : "./public/videos/hombre_existiendo.mp4"
+                          ? "./videos/hombre_oyendo.mp4"
+                          : "./videos/hombre_existiendo.mp4"
                       }
                       autoPlay
                       muted
@@ -161,10 +161,10 @@ export default function VideoCallScreen({
                     <video
                       src={
                         isPlaying
-                          ? "./public/videos/mujer_hablando.mp4"
+                          ? "./videos/mujer_hablando.mp4"
                           : micEnabled
-                          ? "./public/videos/mujer_oyendo.mp4"
-                          : "./public/videos/mujer_existiendo.mp4"
+                          ? "./videos/mujer_oyendo.mp4"
+                          : "./videos/mujer_existiendo.mp4"
                       }
                       autoPlay
                       muted
@@ -309,10 +309,10 @@ export default function VideoCallScreen({
                     <video
                       src={
                         isPlaying
-                          ? "./public/videos/hombre_hablando.mp4"
+                          ? "./videos/hombre_hablando.mp4"
                           : micEnabled
-                          ? "./public/videos/hombre_oyendo.mp4"
-                          : "./public/videos/hombre_existiendo.mp4"
+                          ? "./videos/hombre_oyendo.mp4"
+                          : "./videos/hombre_existiendo.mp4"
                       }
                       autoPlay
                       muted
@@ -337,10 +337,10 @@ export default function VideoCallScreen({
                     <video
                       src={
                         isPlaying
-                          ? "./public/videos/mujer_hablando.mp4"
+                          ? "./videos/mujer_hablando.mp4"
                           : micEnabled
-                          ? "./public/videos/mujer_oyendo.mp4"
-                          : "./public/videos/mujer_existiendo.mp4"
+                          ? "./videos/mujer_oyendo.mp4"
+                          : "./videos/mujer_existiendo.mp4"
                       }
                       autoPlay
                       muted
